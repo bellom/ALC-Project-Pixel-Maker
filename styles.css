@@ -28,7 +28,7 @@ td{
 table {
     border-collapse: collapse;
     margin: auto;
-    cursor: url(http://www.rw-designer.com/cursor-extern.php?id=90366), auto;
+    cursor:pointer;
 }
 
 tr {
